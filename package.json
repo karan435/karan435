@@ -1,0 +1,11 @@
+{
+  "name": "salesp07-main",
+  "version": "1.0.0",
+  "description": "<img align=\"right\" src=\"https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karan",
+  "license": "ISC"
+}
