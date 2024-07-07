@@ -2,7 +2,7 @@
 
 <hr>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=karan435&label=Profile%20views&color=0e75b6&style=flat" alt="karan435" /> </p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Karan+Chaturvedi!;" />
@@ -34,6 +34,8 @@
 - 🏦 I'm Backend Engineering
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
+
+  <p align="center"> <a href="https://twitter.com/KaranChatu34860" target="blank"><img src="https://img.shields.io/twitter/follow/KaranChatu34860?logo=twitter&style=for-the-badge" alt="KaranChatu34860" /></a> </p>
 
  <!--</div>
  
