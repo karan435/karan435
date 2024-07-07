@@ -22,9 +22,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="mailto:chaturvedikaran435@gmail.com"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="rishavchanda" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/karan-chaturvedi-6b8b51292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://github.com/karan435" target="blank"><img align="center" src="https://github.com/favicon.ico" alt="rishav_chanda" height="30" width="40" /></a>
+<a href="mailto:chaturvedikaran435@gmail.com"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Karan" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/karan-chaturvedi-6b8b51292/" target="blank"><img align="center" src="https://www.linkedin.com/favicon.ico" alt="Karan" height="40" width="40" /></a>
+<a href="https://github.com/karan435" target="blank"><img align="center" src="https://github.com/favicon.ico" alt="karan" height="40" width="40" /></a>
+<a href="https://leetcode.com/u/karanchaturvedi01/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" alt="karan" height="40" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/5686a36a-beb6-47ef-a4ad-dc2233aefd71" target="blank"><img align="center" src="https://www.codingninjas.com/favicon.ico" alt="karan" height="40" width="40" /></a>
 </p>
 
 
@@ -52,8 +54,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,mssql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,oracle" /><br>
 </div>
 
 <br/>
@@ -76,6 +78,7 @@
 <!--   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> -->
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
 </div>
 
 <br/><br/>
