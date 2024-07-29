@@ -50,3 +50,8 @@ jobs:
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                - name: Debug info
+        run: |
+          echo "GITHUB_TOKEN: $GITHUB_TOKEN"
+          git config --list
+
